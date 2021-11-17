@@ -9,5 +9,5 @@
     [nit] INT NOT NULL, 
     [id_tipo] INT NOT NULL, 
     CONSTRAINT [FK_Producto_ToTable] FOREIGN KEY ([nit]) REFERENCES [Proveedor]([nit]), 
-    CONSTRAINT [FK_Producto_ToTable_1] FOREIGN KEY ([id_tipo]) REFERENCES [Tipo_Producto]([id_tipo])
+    CONSTRAINT [FK_Producto_ToTable_1] FOREIGN KEY ([id_tipo]) REFERENCES [Tipo_Producto]([Id_tipo])
 )
