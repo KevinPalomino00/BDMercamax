@@ -1,0 +1,10 @@
+D:\Base de datos\MercamaxApp\BDMercamax\BDMercamax\bin\Debug\BDMercamax.dacpac
+D:\Base de datos\MercamaxApp\BDMercamax\BDMercamax\bin\Debug\BDMercamax.dll
+D:\Base de datos\MercamaxApp\BDMercamax\BDMercamax\bin\Debug\BDMercamax.pdb
+D:\Base de datos\MercamaxApp\BDMercamax\BDMercamax\obj\Debug\BDMercamax.sqlproj.AssemblyReference.cache
+D:\Base de datos\MercamaxApp\BDMercamax\BDMercamax\obj\Debug\BDMercamax.dll
+D:\Base de datos\MercamaxApp\BDMercamax\BDMercamax\obj\Debug\BDMercamax.pdb
+D:\Base de datos\MercamaxApp\BDMercamax\BDMercamax\obj\Debug\Model.xml
+D:\Base de datos\MercamaxApp\BDMercamax\BDMercamax\obj\Debug\refactor.xml
+D:\Base de datos\MercamaxApp\BDMercamax\BDMercamax\obj\Debug\postdeploy.sql
+D:\Base de datos\MercamaxApp\BDMercamax\BDMercamax\obj\Debug\predeploy.sql

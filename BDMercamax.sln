@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "BDMercamax", "BDMercamax\BDMercamax.sqlproj", "{F6F6F292-FFF4-48E5-8703-F3E57FEED80A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6F6F292-FFF4-48E5-8703-F3E57FEED80A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6F6F292-FFF4-48E5-8703-F3E57FEED80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6F6F292-FFF4-48E5-8703-F3E57FEED80A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F6F6F292-FFF4-48E5-8703-F3E57FEED80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6F6F292-FFF4-48E5-8703-F3E57FEED80A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6F6F292-FFF4-48E5-8703-F3E57FEED80A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEDCF529-0FC8-4C98-A53B-2721E9EAAE96}
+	EndGlobalSection
+EndGlobal
