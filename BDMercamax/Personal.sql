@@ -6,6 +6,6 @@
     [telefono_personal] NVARCHAR(MAX) NOT NULL, 
     [email_personal] NVARCHAR(MAX) NOT NULL, 
     [direccion_personal] NVARCHAR(MAX) NOT NULL, 
-    [fecha_nacimiento_personal] NVARCHAR(MAX) NOT NULL, 
+    [fecha_nacimiento_personal] DATE NOT NULL, 
     [password] NVARCHAR(MAX) NOT NULL
 )
