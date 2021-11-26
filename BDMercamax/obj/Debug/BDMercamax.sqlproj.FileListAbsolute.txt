@@ -10,3 +10,13 @@ C:\Users\STX\Desktop\BDMercamaxRepositorio\BDMercamax\BDMercamax\obj\Debug\BDMer
 C:\Users\STX\Desktop\BDMercamaxRepositorio\BDMercamax\BDMercamax\obj\Debug\BDMercamax.pdb
 C:\Users\STX\Desktop\BDMercamaxRepositorio\BDMercamax\BDMercamax\bin\Debug\BDMercamax.dll
 C:\Users\STX\Desktop\BDMercamaxRepositorio\BDMercamax\BDMercamax\bin\Debug\BDMercamax.pdb
+D:\Base de datos\MercamaxApp\BDMercamaxRepositorio\BDMercamax\BDMercamax\bin\Debug\BDMercamax.dacpac
+D:\Base de datos\MercamaxApp\BDMercamaxRepositorio\BDMercamax\BDMercamax\bin\Debug\BDMercamax.dll
+D:\Base de datos\MercamaxApp\BDMercamaxRepositorio\BDMercamax\BDMercamax\bin\Debug\BDMercamax.pdb
+D:\Base de datos\MercamaxApp\BDMercamaxRepositorio\BDMercamax\BDMercamax\obj\Debug\BDMercamax.sqlproj.AssemblyReference.cache
+D:\Base de datos\MercamaxApp\BDMercamaxRepositorio\BDMercamax\BDMercamax\obj\Debug\BDMercamax.dll
+D:\Base de datos\MercamaxApp\BDMercamaxRepositorio\BDMercamax\BDMercamax\obj\Debug\BDMercamax.pdb
+D:\Base de datos\MercamaxApp\BDMercamaxRepositorio\BDMercamax\BDMercamax\obj\Debug\Model.xml
+D:\Base de datos\MercamaxApp\BDMercamaxRepositorio\BDMercamax\BDMercamax\obj\Debug\refactor.xml
+D:\Base de datos\MercamaxApp\BDMercamaxRepositorio\BDMercamax\BDMercamax\obj\Debug\postdeploy.sql
+D:\Base de datos\MercamaxApp\BDMercamaxRepositorio\BDMercamax\BDMercamax\obj\Debug\predeploy.sql
