@@ -72,7 +72,6 @@
     <Build Include="VerPuntos.sql" />
     <Build Include="VerProductoBodega.sql" />
     <Build Include="VerProductoGondola.sql" />
-    <Build Include="VerProductoPrecio.sql" />
     <Build Include="VerClientes.sql" />
     <Build Include="GetCountFacturas.sql" />
     <Build Include="ActualizarGondola.sql" />
@@ -86,6 +85,7 @@
     <Build Include="MoverAgondola.sql" />
     <Build Include="ComprarBodega.sql" />
     <Build Include="GetInfoCompra.sql" />
+    <Build Include="VerProductoPrecio.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="BDMercamax.refactorlog" />
